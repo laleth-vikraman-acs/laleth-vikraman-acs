@@ -45,9 +45,9 @@
 ### 💻 Workspace Spec
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/HP_Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="HP Victus"/>
-  <img height="30" src="https://img.shields.io/badge/Intel_Core-i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5"/>
-  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050"/>
-  <img height="30" src="https://img.shields.io/badge/RAM-16GB-555555?style=for-the-badge&logo=ram&logoColor=white" alt="16GB RAM"/>
+  <img height="30" src="https://img.shields.io/badge/Intel_Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Core i5"/>
+  <img height="30" src="https://img.shields.io/badge/NVIDIA_RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050"/>
+  <img height="30" src="https://img.shields.io/badge/16GB_RAM-8A2BE2?style=for-the-badge&logo=corsair&logoColor=white" alt="16GB RAM"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4"/>
