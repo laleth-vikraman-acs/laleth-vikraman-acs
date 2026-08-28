@@ -6,7 +6,7 @@ CSE Student
 - 🌱 Currently learning: **C, DSA in C++, Java, and Python**
 - 🔭 Focusing on **Data Structures, Algorithms & Problem Solving**
 - 💬 Ask me about **C, C++, Java, Python, and MySQL**
-- ⚡ Fun fact: *I enjoy breaking down complex algorithmic puzzles and optimizing code for efficiency.*
+- 🎯 Current Goals: **Solve 500+ LeetCode problems & Build mini-projects**
 
 ---
 
@@ -41,7 +41,7 @@ CSE Student
 ### 💻 Workspace Spec
 <p align="left">
   <img height="30" src="https://img.shields.io/badge/HP_Victus-0096D6?style=for-the-badge&logo=hp&logoColor=white" alt="HP Victus"/>
-  <img height="30" src="https://img.shields.io/badge/Intel_Core-i5-0077C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5"/>
+  <img height="30" src="https://img.shields.io/badge/Intel_Core-i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel i5"/>
   <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA RTX 4050"/>
   <img height="30" src="https://img.shields.io/badge/RAM-16GB-555555?style=for-the-badge&logo=ram&logoColor=white" alt="16GB RAM"/>
 </p>
