@@ -1,14 +1,18 @@
-## Hi there 👋 It's me Laleth Vikraman A C S
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Laleth%20Vikraman%20A%20C%20S&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+</p>
 
-CSE Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+## Hi there 👋
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 Currently learning: **C, DSA in C++, Java, and Python**
 - 🔭 Focusing on **Data Structures, Algorithms & Problem Solving**
 - 💬 Ask me about **C, C++, Java, Python, and MySQL**
 - 🎯 Current Goals: **Solve 500+ LeetCode problems & Build mini-projects**
 
----
+<br clear="right"/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4"/>
 
 ### 🌐 Social Presence
 <p align="left">
@@ -20,7 +24,7 @@ CSE Student
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4"/>
 
 ### 💻 I code in
 <p align="left">
@@ -46,7 +50,7 @@ CSE Student
   <img height="30" src="https://img.shields.io/badge/RAM-16GB-555555?style=for-the-badge&logo=ram&logoColor=white" alt="16GB RAM"/>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4"/>
 
 ### 📊 Problem Solving
 
