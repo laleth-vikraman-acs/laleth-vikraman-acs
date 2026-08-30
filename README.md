@@ -5,6 +5,7 @@
 ## Hi there 👋
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+- 🌐 Check out my **[Portfolio](https://portfolio-one-vert-29.vercel.app/)**
 - 🌱 Currently learning: **C, DSA in C++, Java, and Python**
 - 🔭 Focusing on **Data Structures, Algorithms & Problem Solving**
 - 💬 Ask me about **C, C++, Java, Python, and MySQL**
